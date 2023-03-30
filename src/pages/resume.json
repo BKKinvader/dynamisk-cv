@@ -1,0 +1,50 @@
+
+{
+	"name": "Tim Nilsson",
+	"jobTitle": "",
+	"summary": "Jag heter Tim Nilsson och är 26 år gammal. Jag är en tekniskt kunnig person med erfarenhet av grundläggande programmering, webbutveckling och databasadministration. Jag är en lärande och nyfiken person som är villig att ta itu med nya utmaningar och ta till mig nya kunskaper och färdigheter.",
+	"experience": [
+		{
+			"position": "Cashier, Clerk, Warehouse worker",
+			"company": "Gekås Ullared.",
+			"startDate": "October 2017",
+			"endDate": "Present",
+			"description": "Take care of inventory, Helping customers in the store"
+		},
+		{
+			"position": "Cashier, Chef assistance",
+			"company": "Sushi Minami.",
+			"startDate": "January 2014",
+			"endDate": "December 2015",
+			"description": "Assistant chef for hot dishes and serve food"
+		}
+	],
+	"education": [
+		{
+			"institution": "Peder skrivare skola",
+			"degree": "Media Teknik",
+			"startDate": "August 2012",
+			"endDate": "May 2016"
+		},
+    {
+			"institution": "Peder skrivare skola",
+			"degree": "Processteknik",
+			"startDate": "August 2016",
+			"endDate": "May 2017"
+		},
+    {
+			"institution": "Campus Varberg",
+			"degree": "Systemutvecklare.NET",
+			"startDate": "August 2022",
+			"endDate": "Present"
+		}
+    
+	],
+	"skills": [
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"C#",
+    	"SQL"
+	]
+}
