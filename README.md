@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+Remove .DS_STORE on PC
+and add this to package.json:
+"start": "react-scripts --openssl-legacy-provider start",
+"build": "react-scripts --openssl-legacy-provider build",
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
