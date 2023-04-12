@@ -1,3 +1,8 @@
+Link to website:
+http://dynamisk-cv-sida.surge.sh/
+
+
+
 # Getting Started with Create React App
 Remove .DS_STORE on PC
 and add this to package.json:
